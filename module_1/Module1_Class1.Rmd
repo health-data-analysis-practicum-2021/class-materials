@@ -342,7 +342,7 @@ This is why it's not enough just to compare the risk of disease between smokers 
 Create a data display with the NMES data to answer Question 1.1: How does the risk of disease compare for smokers and otherwise similar non-smokers?
 
 * Submit your data display in R Markdown through Github by Sunday (January 31, 2021) at midnight. You can find a link to create this assignment in Github on Blackboard.
-* Post a screenshot of your data display (just the graph or table) on Piazza in the "Assignment 1-1 Display" thread.  You are welcome to post this anonymously to your classmates. You can also include comments about what your chose to do or questions you had as you were making the display.  Comments like: "I wanted to do _______, but couldn't figure out how" can be especially helpful.
+* Post a screenshot of your data display (just the graph or table) on Piazza in the "Assignment 1-1 Display" thread.  You are welcome to post this anonymously to your classmates. You can also include comments about what you chose to do or questions you had as you were making the display.  Comments like: "I wanted to do _______, but couldn't figure out how" can be especially helpful.
 * You may work together on this assignment, but you must submit your own data display; please credit in your assignment anyone with whom you collaborated.
 * Next week in class we will start with discussion/critiques of your displays and brainstorm as a class on ideas to improve these displays.  You are welcome to respond to your classmates posts on Piazza before then; just keep in mind we are working as a class to improve our work each week, so be **constructive** rather than **negative** in your responses.
 
