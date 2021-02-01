@@ -21,7 +21,6 @@ knitr::opts_knit$set(root.dir = "/cloud/project")
 First we load the packages that we will be using in this document.  It's good practices to load packages as the beginning so they are all in the same place.  If you decide later you need an additional package, add it to the top of the document!
 ```{r}
 library(tidyverse)  # core group of tidyverse packages
-library(kableExtra)  # to make nice tables
 ```
 
 ## Module 1: Smoking and the risk of disease
