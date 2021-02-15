@@ -105,6 +105,8 @@ knitr::opts_knit$set(root.dir = "/cloud/project")
 
 ## Preliminaries
 
+Note: Hearts courtesy of [Emily Riederer](https://github.com/emilyriederer/demo-rmd-snow).
+
 First load the packages that we will be using in this document:
 ```{r}
 library(tidyverse)  # core group of tidyverse packages
